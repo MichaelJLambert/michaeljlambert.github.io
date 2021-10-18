@@ -1,4 +1,4 @@
-# Minimal Theme
+# Michael Lambert
 
 This is Michael Lambert's personal page.
 
